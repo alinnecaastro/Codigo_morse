@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include "pico/stdlib.h"
 
+void send_morse_red(int duration){
+    
+}
 
 
 int main()
